@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pinterest-clone/static/css/main.bc2c13d3.chunk.css",
+    "main.js": "/pinterest-clone/static/js/main.705f24d1.chunk.js",
+    "main.js.map": "/pinterest-clone/static/js/main.705f24d1.chunk.js.map",
+    "runtime-main.js": "/pinterest-clone/static/js/runtime-main.e98068c8.js",
+    "runtime-main.js.map": "/pinterest-clone/static/js/runtime-main.e98068c8.js.map",
+    "static/js/2.c4cde7d3.chunk.js": "/pinterest-clone/static/js/2.c4cde7d3.chunk.js",
+    "static/js/2.c4cde7d3.chunk.js.map": "/pinterest-clone/static/js/2.c4cde7d3.chunk.js.map",
+    "static/js/3.fcb438f2.chunk.js": "/pinterest-clone/static/js/3.fcb438f2.chunk.js",
+    "static/js/3.fcb438f2.chunk.js.map": "/pinterest-clone/static/js/3.fcb438f2.chunk.js.map",
+    "index.html": "/pinterest-clone/index.html",
+    "static/css/main.bc2c13d3.chunk.css.map": "/pinterest-clone/static/css/main.bc2c13d3.chunk.css.map",
+    "static/js/2.c4cde7d3.chunk.js.LICENSE.txt": "/pinterest-clone/static/js/2.c4cde7d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e98068c8.js",
+    "static/js/2.c4cde7d3.chunk.js",
+    "static/css/main.bc2c13d3.chunk.css",
+    "static/js/main.705f24d1.chunk.js"
+  ]
+}
