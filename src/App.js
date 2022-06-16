@@ -37,7 +37,7 @@ const getNewPins =() => {
   let promise =[];
   let pinData =[];
 
-  let pins =['ocean','bikes', 'Tokyo','cars','bali','cats','dogs']
+  let pins =[/*'ocean','bikes', 'Tokyo','cars','bali','cats','dogs'*/'drogan ball']
   pins .forEach((pinTerm) =>{
     promise.push(
       getImages(pinTerm).then((res) => {
